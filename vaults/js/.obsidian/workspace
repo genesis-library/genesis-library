@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "246b91951eb0e28d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e0538f91f46b50d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "momentjs.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2672f1af4c9659f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "26aa0cffbf33bd42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab875f20b5a47452",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c140de859618e9d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40aeae9858d80bd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f336297096ea1e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a163a75dbbb9f905",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "momentjs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e0538f91f46b50d",
+  "lastOpenFiles": [
+    "momentjs.md",
+    "Pasted image 20220304222643.png",
+    "Pasted image 20220305085305.png.md",
+    "Deployment/cors.md",
+    "react.md",
+    "Databases/CAP-theorem.md",
+    "Databases/acid-vs-base.md",
+    "How-nodejs-works.md",
+    "inci-ile-izlenecekler.md",
+    "uncle-bob.md"
+  ]
+}

@@ -1,0 +1,1 @@
+[https://medium.com/trendyol-tech/outbox-pattern-story-at-trendyol-fcb35fe056d7](https://medium.com/trendyol-tech/outbox-pattern-story-at-trendyol-fcb35fe056d7)

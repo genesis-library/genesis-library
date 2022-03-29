@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "961cc5226f8430db",
+    "type": "split",
+    "children": [
+      {
+        "id": "f80e9196e8233a72",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0f43f2448ed977a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bc4b8438cabf91f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6494cb1539e03c0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63ff2c0af8565248",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5b96ac72e09ca93",
+    "type": "split",
+    "children": [
+      {
+        "id": "217309145aabe52c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d0368df43ec772",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f80e9196e8233a72",
+  "lastOpenFiles": [
+    "Pasted image 20220311011551.png",
+    "Untitled.md"
+  ]
+}

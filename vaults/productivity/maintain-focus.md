@@ -1,0 +1,3 @@
+- Eliminate all distractions, out of your reach
+- Identify internet sources which sucks you in
+- DF Tube, Associal are browser extensions

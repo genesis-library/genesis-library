@@ -1,0 +1,1 @@
+https://itnext.io/react-performance-how-to-avoid-redundant-re-renders-6a33618d92a3

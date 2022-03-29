@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "2bbe070f63164628",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f3b68c51795057",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "memorization.md",
+            "mode": "preview"
+          }
+        },
+        "group": "98299045b3309823"
+      },
+      {
+        "id": "4844f295f076942c",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "memorization.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.9890391326222565,
+              "close": false
+            }
+          }
+        },
+        "group": "98299045b3309823"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e86ce9000d088518",
+    "type": "split",
+    "children": [
+      {
+        "id": "928aab6ef17fb8b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc6418b9b1069d88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9874b9cca6dce793",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e8493babe0d6ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf3a1f0a3d324ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a20285027494a635",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "memorization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4844f295f076942c",
+  "lastOpenFiles": [
+    "memorization.md",
+    "macos-shortcuts.md",
+    "effective-learning.md",
+    "macos.md",
+    "macos-applications.md",
+    "maintain-focus.md",
+    "interleaving.md",
+    "starting-to-study.md",
+    "learning.md",
+    "metalearning.md"
+  ]
+}

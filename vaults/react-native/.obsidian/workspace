@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "0b222bc91d3f3f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "53979284d4dc7ca6",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "outline.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46d997ff8be06c19",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a3f9bbf4a00d25b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "258d057f8c67536e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad61f62cbbcadcb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a78ef096dfce87a",
+    "type": "split",
+    "children": [
+      {
+        "id": "575897ac6636afc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b399a38c96b987bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "outline.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "53979284d4dc7ca6",
+  "lastOpenFiles": [
+    "outline.png",
+    "navigation.md",
+    "flex.md",
+    "margin.md",
+    "flexbox.md",
+    "project needs.md",
+    "Pasted image 20220314190507.png",
+    "Pasted image 20220314190452.png",
+    "Pasted image 20220314183314.png",
+    "Pasted image 20220314183229.png"
+  ]
+}

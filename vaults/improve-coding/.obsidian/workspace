@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "c3ecd8f591540346",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f3dfed818cc551",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Databases/rdbms/CASCADE.md",
+            "mode": "source"
+          }
+        },
+        "group": "ce373be5b124d65d"
+      },
+      {
+        "id": "daa4d9058810d007",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Databases/rdbms/CASCADE.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "ce373be5b124d65d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "759115a82f3d10f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2345f15de74c16b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc6afc5f31d4720c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "19160cb8db0b87ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "589b4e4b741f5c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "c86d661775475897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2036c8203c541011",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Databases/rdbms/CASCADE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d2f3dfed818cc551",
+  "lastOpenFiles": [
+    "Databases/rdbms/CASCADE.md",
+    "Databases/nosql/mongodb/transaction-example.md",
+    "Databases/nosql/mongodb/oreilly-notes.md",
+    "Databases/atomicity.md",
+    "Databases/rdbms-vs-nosql.md",
+    "Databases/databases.md",
+    "Databases/nosql/mongodb/mongodb.md",
+    "Databases/nosql/mongodb/bson-objects.md",
+    "access-log.md",
+    "data-safety-vs-insertion-speed.md"
+  ]
+}

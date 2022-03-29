@@ -1,0 +1,2 @@
+- Think about your ancestors
+- Aim for bigger challenges

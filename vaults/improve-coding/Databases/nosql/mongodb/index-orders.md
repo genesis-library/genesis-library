@@ -1,0 +1,2 @@
+equality > sort > range
+

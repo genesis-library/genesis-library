@@ -1,0 +1,2 @@
+[[macos-applications]]
+[[macos-shortcuts]]
