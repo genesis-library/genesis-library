@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "fa498dc50c00f233",
+    "type": "split",
+    "children": [
+      {
+        "id": "593efa61c935fe6b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "resources.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "84d696fe836572b3"
+      },
+      {
+        "id": "14d03c37c9cc85e8",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "resources.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "84d696fe836572b3"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "226a2835e411b4fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e2994bf16d8fda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b3c85255ae9aa58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "48054bf32c1914b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5e22622a739f3f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c4deb866890696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f33c0b3aff941716",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "593efa61c935fe6b",
+  "lastOpenFiles": [
+    "resources.md",
+    "main.md",
+    "extension-functions.md",
+    "functions.md",
+    "nullable.md",
+    "why-kotlin.md"
+  ]
+}

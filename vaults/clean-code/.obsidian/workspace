@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "1403b0b3be29b3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "852f88c425cc447d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "couchbase.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "865ae0ec407d0ebc"
+      },
+      {
+        "id": "01ca74b1cac55511",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "couchbase.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "865ae0ec407d0ebc"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b3d57f1beb7f15e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9138976b9192391b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dfb484e79aac078",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a613fda644d96882",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6822dd2dd9d8513f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9023159a6e3f5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2e387f8c5d6e5dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "couchbase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "852f88c425cc447d",
+  "lastOpenFiles": [
+    "couchbase.md",
+    "repository.md",
+    "domain-event.md",
+    "Aggregate.md",
+    "value-types.md",
+    "DDD.md",
+    "main.md",
+    "TDD/tdd-main.md",
+    "seller-ads-structure.md",
+    "SOLID/liskov-substitution.md"
+  ]
+}
