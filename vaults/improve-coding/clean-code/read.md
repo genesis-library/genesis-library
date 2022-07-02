@@ -1,0 +1,11 @@
+- modern javascript for impatient
+- software architecture the hard parts
+- no such thing code freeze
+- https://microservices.io/adopt/index.html
+- https://herbertograca.com/
+- fundamentals of software architecture
+- building event driven microservices
+- # Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices
+- designing data intensive applications
+- phantom read dirty read
+- designing hexagonal architecture with java

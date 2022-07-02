@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "44b184fae7b452e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae8752d8e2d671d0",
+        "type": "leaf",
+        "dimension": 52.56410256410257,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "non-coding/inci-ile-izlenecekler.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "3358867a4def2d96"
+      },
+      {
+        "id": "a62b7e2bacc1b68e",
+        "type": "leaf",
+        "dimension": 47.43589743589743,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "non-coding/inci-ile-izlenecekler.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.9549709691763446,
+              "close": false
+            }
+          }
+        },
+        "group": "3358867a4def2d96"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5db068dca361fb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad8ba8fdf2442cb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540ba5f3d3cf1c4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59f886adbdecc3b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path: ts",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4f556887ad2d329",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb4239331495eceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29252363df440ccf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "non-coding/inci-ile-izlenecekler.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ae8752d8e2d671d0",
+  "lastOpenFiles": [
+    "non-coding/inci-ile-izlenecekler.md",
+    "web-development/backend/Databases/nosql/mongodb/performance-killers.md",
+    "web-development/backend/Databases/nosql/mongodb/indexes.md",
+    "non-coding/barış.md",
+    "web-development/frontend/testing/cypress/debugger.md",
+    "web-development/frontend/testing/cypress/css-selectors.md",
+    "web-development/frontend/testing/cypress/Untitled.md",
+    "web-development/frontend/testing/cypress/intercepted-endpoint-response-programatic.md",
+    "web-development/frontend/testing/cypress/main.md",
+    "web-development/frontend/testing/cypress/mock-a-page.md"
+  ]
+}

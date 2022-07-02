@@ -1,0 +1,1 @@
+https://docs.cypress.io/guides/tooling/code-coverage#What-you-ll-learn
